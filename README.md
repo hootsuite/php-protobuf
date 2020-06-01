@@ -1,6 +1,14 @@
 PHP Protobuf - Fast PHP Protocol Buffers implementation
 =======================================================
 
+Hootsuite PHP5 Branch
+---------------------
+
+This PHP5 branch is to support the PHP protobuf lib build process which
+is based on a legacy version of the php-protobuf PHP extension. It 
+contains a  fix for a segfault issue that was applied to the PHP7 
+branch version of this codebase.
+
 Overview
 --------
 
